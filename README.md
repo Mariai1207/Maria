@@ -10,3 +10,6 @@ Soy además Nutricionista Dietista lo cual me ha dado experiencia en el ámbito 
 Me apasionan muchas cosas, pero en resumen puedo decir que me apasiona APRENDER y compartir conocimientos.
 
 ## Mis proyectos
+
+
+
