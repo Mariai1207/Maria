@@ -10,6 +10,11 @@ Soy además Nutricionista Dietista lo cual me ha dado experiencia en el ámbito 
 Me apasionan muchas cosas, pero en resumen puedo decir que me apasiona APRENDER y compartir conocimientos.
 
 ## Mis proyectos
-
+**Food App**
+ aplicación de recetas que consumen datos desde una api externa y base de datos local. con lo cual permite buscar, filtrar datos y ordenarlos, además de la creación de nuevas recetas.
+ Se realizó con NodeJs, Express, Sequelize, React y Redux.
+ Más detalle 
+ [http://https://github.com/Mariai1207/food_project](http://https://github.com/Mariai1207/food_project)
+ 
 
 
